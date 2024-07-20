@@ -1,1 +1,3 @@
-# Business-Sales-Dashboard
+# Business Sales Dashboard
+
+![alt text](image.png)
